@@ -16,7 +16,7 @@ Please ensure Python is installed and added to the PATH. Test suite is executed 
 #### Instructions
 1. `git clone` this repository
 2. `cd` into project folder on local machine
-3. execute tests using `python test.py`
+3. execute tests using `python -m unittest discover ./`
 
 ### Further steps
 * Add more tests to cover edge cases.
